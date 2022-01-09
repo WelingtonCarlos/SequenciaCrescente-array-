@@ -38,7 +38,7 @@ function SequenciaCrescente($array) {
     return ": - False";
 }
 
-echo "Testes realizador abaixo, para verificar a integridade da função:"."<br>"."<br>";
+echo "Testes realizados abaixo, para verificar a integridade da função:"."<br>"."<br>";
 
 echo "[1, 3, 2, 1]".SequenciaCrescente([1, 3, 2, 1])."<br>"."<br>";
 echo "[1, 3, 2]".SequenciaCrescente([1, 3, 2])."<br>"."<br>";
